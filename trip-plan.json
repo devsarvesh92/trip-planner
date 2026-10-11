@@ -18,11 +18,7 @@
     "priceNote": "Check live price on MakeMyTrip",
     "bookingUrl": "https://www.makemytrip.com/hotels/trishvam_palolem_beach_resort-details-goa.html?checkin=10282026&checkout=10312026&roomStayQualifier=2e1e5e&country=IN",
     "website": "https://www.trishvam.com/palolem-beach-resort-goa/",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Trishvam%20Palolem%20Beach%20Resort",
-    "backupHotel": {
-      "name": "Royal Touch Beach Resort",
-      "bookingUrl": "https://letsbook.me/booking/royaltouchresort?checkin=2026-10-28&checkout=2026-10-31&adults=2&children=1&childAges=5"
-    }
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Trishvam%20Palolem%20Beach%20Resort"
   },
   "flights": {
     "estimatedCostInr": 22011,
