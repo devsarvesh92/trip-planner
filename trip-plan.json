@@ -11,17 +11,22 @@
     "childAges": [5]
   },
   "hotel": {
-    "name": "Royal Touch Beach Resort",
-    "address": "117, Palolem Beach, Ourem Rd, Mohanbagh, Palolem, Canacona, Goa 403702",
-    "roomPreference": "Sea View / sea-facing room",
-    "estimatedCostInr": 31073,
-    "bookingUrl": "https://letsbook.me/booking/royaltouchresort?checkin=2026-10-28&checkout=2026-10-31&adults=2&children=1&childAges=5",
-    "website": "https://royaltouchresort.com/",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Touch%20Beach%20Resort%20Palolem"
+    "name": "Trishvam Palolem Beach Resort",
+    "address": "Palolem Beach, Canacona, South Goa",
+    "features": ["beachfront", "garden", "pool", "spa", "sea-view dining"],
+    "rating": "TripAdvisor 4/5, ranked #2 of 44 in Palolem",
+    "priceNote": "Check live price on MakeMyTrip",
+    "bookingUrl": "https://www.makemytrip.com/hotels/trishvam_palolem_beach_resort-details-goa.html?checkin=10282026&checkout=10312026&roomStayQualifier=2e1e5e&country=IN",
+    "website": "https://www.trishvam.com/palolem-beach-resort-goa/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Trishvam%20Palolem%20Beach%20Resort",
+    "backupHotel": {
+      "name": "Royal Touch Beach Resort",
+      "bookingUrl": "https://letsbook.me/booking/royaltouchresort?checkin=2026-10-28&checkout=2026-10-31&adults=2&children=1&childAges=5"
+    }
   },
   "flights": {
     "estimatedCostInr": 22011,
-    "searchUrl": "https://www.cleartrip.com/flights/results?adults=2&childs=1&depart_date=28/10/2026&from=NMI&to=GOI&return_date=31/10/2026&class=Economy&trip_type=RoundTrip",
+    "searchUrl": "https://www.makemytrip.com/flight/search?itinerary=NMI-GOI-28/10/2026_GOI-NMI-31/10/2026&tripType=R&paxType=A-2_C-1_I-0&cabinClass=E&intl=false",
     "outbound": {
       "date": "2026-10-28",
       "airline": "IndiGo",
@@ -46,13 +51,13 @@
   "maps": {
     "nmi": "https://www.google.com/maps/search/?api=1&query=Navi%20Mumbai%20International%20Airport",
     "goi": "https://www.google.com/maps/search/?api=1&query=Goa%20Dabolim%20Airport",
-    "goiToHotel": "https://www.google.com/maps/dir/?api=1&origin=Goa%20Dabolim%20Airport&destination=Royal%20Touch%20Beach%20Resort%20Palolem"
+    "goiToHotel": "https://www.google.com/maps/dir/?api=1&origin=Goa%20Dabolim%20Airport&destination=Trishvam%20Palolem%20Beach%20Resort"
   },
   "budgetInr": {
-    "hotel": 31073,
+    "hotel": "check MakeMyTrip live price",
     "flightsApprox": 22011,
     "airportCabsRange": [6000, 9000],
     "foodAndLocalRange": [12000, 18000],
-    "planningTotalRange": [71000, 80000]
+    "note": "Flights + cabs + food ≈ ₹40,000–₹57,000 plus hotel cost"
   }
 }

@@ -10,18 +10,20 @@ open index.html
 
 ## Main links
 
-- Hotel booking: https://letsbook.me/booking/royaltouchresort?checkin=2026-10-28&checkout=2026-10-31&adults=2&children=1&childAges=5
-- Hotel website: https://royaltouchresort.com/
-- Hotel map: https://www.google.com/maps/search/?api=1&query=Royal%20Touch%20Beach%20Resort%20Palolem
-- Flight search: https://www.cleartrip.com/flights/results?adults=2&childs=1&depart_date=28/10/2026&from=NMI&to=GOI&return_date=31/10/2026&class=Economy&trip_type=RoundTrip
-- GOI → Resort route: https://www.google.com/maps/dir/?api=1&origin=Goa%20Dabolim%20Airport&destination=Royal%20Touch%20Beach%20Resort%20Palolem
+- Hotel booking (MakeMyTrip): https://www.makemytrip.com/hotels/trishvam_palolem_beach_resort-details-goa.html?checkin=10282026&checkout=10312026&roomStayQualifier=2e1e5e&country=IN
+- Hotel website: https://www.trishvam.com/palolem-beach-resort-goa/
+- Hotel map: https://www.google.com/maps/search/?api=1&query=Trishvam%20Palolem%20Beach%20Resort
+- Flight booking (MakeMyTrip): https://www.makemytrip.com/flight/search?itinerary=NMI-GOI-28/10/2026_GOI-NMI-31/10/2026&tripType=R&paxType=A-2_C-1_I-0&cabinClass=E&intl=false
+- GOI → Resort route: https://www.google.com/maps/dir/?api=1&origin=Goa%20Dabolim%20Airport&destination=Trishvam%20Palolem%20Beach%20Resort
+- Backup hotel (Royal Touch): https://letsbook.me/booking/royaltouchresort?checkin=2026-10-28&checkout=2026-10-31&adults=2&children=1&childAges=5
 
 ## Plan summary
 
 - Dates: 28 Oct 2026 to 31 Oct 2026
 - Guests: 2 adults + 1 child age 5
-- Hotel: Royal Touch Beach Resort, Palolem
-- Room target: Sea View / sea-facing room
+- Hotel: Trishvam Palolem Beach Resort (book via MakeMyTrip)
+- Resort features: beachfront, garden, pool, spa, sea-view dining
+- Backup hotel: Royal Touch Beach Resort
 - Closest airport: Goa Dabolim Airport (GOI)
 - Suggested flights:
   - 28 Oct: IndiGo 6E-5177, NMI → GOI, 11:20 → 12:35
