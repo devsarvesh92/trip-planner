@@ -1,0 +1,58 @@
+{
+  "tripName": "Goa Family Trip",
+  "dates": {
+    "checkIn": "2026-10-28",
+    "checkOut": "2026-10-31",
+    "nights": 3
+  },
+  "travelers": {
+    "adults": 2,
+    "children": 1,
+    "childAges": [5]
+  },
+  "hotel": {
+    "name": "Royal Touch Beach Resort",
+    "address": "117, Palolem Beach, Ourem Rd, Mohanbagh, Palolem, Canacona, Goa 403702",
+    "roomPreference": "Sea View / sea-facing room",
+    "estimatedCostInr": 31073,
+    "bookingUrl": "https://letsbook.me/booking/royaltouchresort?checkin=2026-10-28&checkout=2026-10-31&adults=2&children=1&childAges=5",
+    "website": "https://royaltouchresort.com/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Touch%20Beach%20Resort%20Palolem"
+  },
+  "flights": {
+    "estimatedCostInr": 22011,
+    "searchUrl": "https://www.cleartrip.com/flights/results?adults=2&childs=1&depart_date=28/10/2026&from=NMI&to=GOI&return_date=31/10/2026&class=Economy&trip_type=RoundTrip",
+    "outbound": {
+      "date": "2026-10-28",
+      "airline": "IndiGo",
+      "flightNumber": "6E-5177",
+      "from": "NMI",
+      "to": "GOI",
+      "departureTime": "11:20",
+      "arrivalTime": "12:35",
+      "duration": "1h 15m"
+    },
+    "return": {
+      "date": "2026-10-31",
+      "airline": "IndiGo",
+      "flightNumber": "6E-5176",
+      "from": "GOI",
+      "to": "NMI",
+      "departureTime": "13:05",
+      "arrivalTime": "14:20",
+      "duration": "1h 15m"
+    }
+  },
+  "maps": {
+    "nmi": "https://www.google.com/maps/search/?api=1&query=Navi%20Mumbai%20International%20Airport",
+    "goi": "https://www.google.com/maps/search/?api=1&query=Goa%20Dabolim%20Airport",
+    "goiToHotel": "https://www.google.com/maps/dir/?api=1&origin=Goa%20Dabolim%20Airport&destination=Royal%20Touch%20Beach%20Resort%20Palolem"
+  },
+  "budgetInr": {
+    "hotel": 31073,
+    "flightsApprox": 22011,
+    "airportCabsRange": [6000, 9000],
+    "foodAndLocalRange": [12000, 18000],
+    "planningTotalRange": [71000, 80000]
+  }
+}
