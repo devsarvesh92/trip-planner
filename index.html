@@ -102,6 +102,16 @@
     .ok { background: #ecfdf5; color: #065f46; border-color: #a7f3d0; }
     .link-row { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
     .small { font-size: .92rem; }
+    .video-wrap {
+      position: relative;
+      width: 100%;
+      padding-top: 56.25%;
+      border-radius: 18px;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      background: #0b1220;
+    }
+    .video-wrap iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
     .footer { text-align: center; color: var(--muted); margin-top: 26px; }
     @media print {
       body { background: white; }
@@ -187,6 +197,22 @@
           <a class="btn" href="https://www.cleartrip.com/flights/results?adults=2&childs=1&depart_date=28/10/2026&from=NMI&to=GOI&return_date=31/10/2026&class=Economy&trip_type=RoundTrip" target="_blank" rel="noopener">Cleartrip search</a>
           <a class="btn secondary" href="https://www.goindigo.in/" target="_blank" rel="noopener">IndiGo website</a>
           <a class="btn secondary" href="https://www.kayak.co.in/flights/NMI-GOI/2026-10-28/2026-10-31/2adults/children-5" target="_blank" rel="noopener">Kayak compare</a>
+        </div>
+      </article>
+
+      <article class="card">
+        <h2>Video reference</h2>
+        <p class="muted small">Shared video about the resort / area — watch before finalizing the booking.</p>
+        <div class="video-wrap">
+          <iframe
+            src="https://www.youtube-nocookie.com/embed/S4HX1Y2RD28"
+            title="Goa trip reference video"
+            loading="lazy"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+        </div>
+        <div class="link-row no-print">
+          <a class="btn secondary" href="https://youtu.be/S4HX1Y2RD28" target="_blank" rel="noopener">Open on YouTube</a>
         </div>
       </article>
 
